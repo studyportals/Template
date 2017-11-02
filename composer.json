@@ -1,0 +1,24 @@
+{
+    "name": "studyportals/template",
+    "description": "Template classes for studyportals",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Rob van den Hout",
+            "email": "vdhout@studyportals.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "StudyPortals\\Template\\": "src/"
+        }
+    },
+    "require": {
+        "studyportals/exception": "^1.0",
+        "studyportals/cache": "^1.0",
+        "studyportals/utils": "^1.0"
+    }
+}
