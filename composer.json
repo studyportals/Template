@@ -17,8 +17,8 @@
         }
     },
     "require": {
-        "studyportals/exception": "^1.0",
-        "studyportals/cache": "^1.0",
-        "studyportals/utils": "^1.0"
+        "studyportals/exception": "^2.0",
+        "studyportals/cache": "^2.0",
+        "studyportals/utils": "^2.0"
     }
 }
