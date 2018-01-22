@@ -4,8 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "fcdec31b99463023bc6f74aa256f24c5",
-    "content-hash": "5f79d0f53dd6d8b015b86484bc187443",
+    "content-hash": "d3aef5f4bf7e66ecf93d8fe5564c478c",
     "packages": [
         {
             "name": "studyportals/cache",
@@ -41,7 +40,7 @@
                 }
             ],
             "description": "Cache engines for studyportals",
-            "time": "2017-11-27 10:50:39"
+            "time": "2017-11-27T10:50:39+00:00"
         },
         {
             "name": "studyportals/exception",
@@ -74,20 +73,20 @@
                 }
             ],
             "description": "Default exceptions and ExceptionHandler for studyportals",
-            "time": "2017-11-27 10:29:50"
+            "time": "2017-11-27T10:29:50+00:00"
         },
         {
             "name": "studyportals/utils",
-            "version": "v2.0.0",
+            "version": "v2.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/studyportals/Utils.git",
-                "reference": "63d526f866e5d75a98dc21cebb543a90d613de83"
+                "reference": "eab69ca10ce3261480164cf8108ae7020459c847"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/studyportals/Utils/zipball/63d526f866e5d75a98dc21cebb543a90d613de83",
-                "reference": "63d526f866e5d75a98dc21cebb543a90d613de83",
+                "url": "https://api.github.com/repos/studyportals/Utils/zipball/eab69ca10ce3261480164cf8108ae7020459c847",
+                "reference": "eab69ca10ce3261480164cf8108ae7020459c847",
                 "shasum": ""
             },
             "require": {
@@ -111,7 +110,7 @@
                 }
             ],
             "description": "Utils for studyportals",
-            "time": "2017-11-27 10:52:30"
+            "time": "2018-01-17T12:10:28+00:00"
         }
     ],
     "packages-dev": [],
